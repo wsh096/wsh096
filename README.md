@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I`m Seok_Hyeon_Wang👋
 
 <!--
 **wsh096/wsh096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
