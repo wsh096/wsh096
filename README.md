@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![wsh096's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsh096&show_icons=true&theme=cobalt)
-<center>가운데</center>  
+
+  ![wsh096's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsh096&show_icons=true&theme=cobalt)
+
