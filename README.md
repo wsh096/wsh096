@@ -17,4 +17,9 @@ Here are some ideas to get you started:
 
 ![wsh096's GitHub stats](https://github-readme-stats.vercel.app/api?username=wsh096&show_icons=true&theme=cobalt)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wsh096&layout=compact&theme=cobalt)
+
+## Blog ✔
+
+### LatestPosts
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wsh096)](https://velog.io/@wsh096)
+
