@@ -1,4 +1,7 @@
-### Hi I`m Wang_Seok_Hyeon👋 
+## Hi I`m Wang_Seok_Hyeon👋 
+### My goal.
+- I want to be called a software engineer by other people.
+- So I do not settle down and work hard until I am imprinted as an engineer in the minds of others.
 
 <!--
 **wsh096/wsh096** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
