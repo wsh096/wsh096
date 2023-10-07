@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 
 ### LatestPosts
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=wsh096)](https://velog.io/@wsh096)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=wsh096)](https://velog.io/@wsh096)
 
